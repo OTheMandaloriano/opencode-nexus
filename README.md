@@ -1,5 +1,7 @@
 # OpenCode Nexus
 
+<img src="logo.png" alt="OC Nexus" width="160" align="right">
+
 Launcher e gerenciador de conexao do [OpenCode](https://opencode.ai) para Windows 10 e 11.
 
 Fecha o app antes de mexer na rede, sobe WARP, Tor, VPN, WireGuard, VPN Gate ou proxy, confere se o modelo voltou a responder e reabre na mesma conversa. Troca o IP quando o limite gratuito chega. Cuida do banco sem apagar conversa nenhuma.
